@@ -2,6 +2,14 @@
 
 An Arduino-based Remote Control car project.
 
+Car: [Schematic](schematics/Reciever.jpg) and [Source Code](src/Car_V2/Car_V2.ino)
+
+Transmitter: [Schematic](schematics/Transmitter.jpg) and [Source Code](src/RF24_TX/RF24_TX.ino)
+
+[Gallery](pix/)
+
+Schematics prepared with [Fritzing](https://fritzing.org/)
+
 
 ## Objectives
 
